@@ -2,8 +2,8 @@ def new_hash
   random_hash = {}
 end
 
-def actor
-  actor_hash = {name:}
+def actor(input_name)
+  actor_hash = {name:=> input_name}
 end
 
 def monopoly
