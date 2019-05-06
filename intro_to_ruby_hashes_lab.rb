@@ -3,11 +3,11 @@ def new_hash
 end
 
 def actor
-  
+  actor_hash = {name:}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {railroads:}
 
 end
 
