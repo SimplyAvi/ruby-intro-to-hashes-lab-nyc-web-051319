@@ -2,8 +2,8 @@ def new_hash
   random_hash = {}
 end
 
-def actor(name:)
-  name.
+def actor
+  actor_hash = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
